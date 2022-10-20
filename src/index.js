@@ -7,7 +7,7 @@ const Counter = ()=>{
 
   return(
       <div className="App">
-        <data.Provider value={"hello"}>
+        <data.Provider value={"hey this is sravan. How are you?"}>
         <p>Hello</p>
          <App />
         </data.Provider>
